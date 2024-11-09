@@ -1,0 +1,16 @@
+IN_4_3-x:IN_5_3-x*HL,1
+IN_5_3-x:IN_6_3-x*HL,2
+IN_3_3-x:IN_4_3-x*HL,3
+IN_5_0:IN_5_3-x*BL,4
+IN_6_3-x:IN_7_3-y*HL,5
+IN_6_0:IN_6_3-x*BL,6
+IN_2_3-x:IN_3_3-x*HL,7
+IN_4_0:IN_4_3-x*HL,8
+IN_5_0:IN_5_3-x*HL,9
+IN_6_0:IN_6_3-x*HL,10
+IN_7_3-y:y-S1_0*HL,11
+y-S1_0:z-x*HL,12
+y-S1_0:y-S2_0*HL,13
+IN_7_0:IN_7_3-y*BL,14
+y-S2_0:y-S3_0*HL,15
+y-S2_0:z-x*HL,16
